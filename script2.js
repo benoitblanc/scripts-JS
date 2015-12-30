@@ -1,1 +1,1 @@
-alert('Exemple d'utilisation de Git')
+alert('Exemple d'utilisation de Git');
