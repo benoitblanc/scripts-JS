@@ -1,1 +1,1 @@
-alert('Hello from script1.js');
+alert('Hello World');
