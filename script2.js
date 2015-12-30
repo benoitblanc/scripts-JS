@@ -1,1 +1,1 @@
-alert('Hello from script2.js')
+alert('Exemple d'utilisation de Git')
